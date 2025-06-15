@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "tw:build": "npx tailwindcss -i ./public/css/tailwind.css -o ./public/css/main.css --watch"
+    "tw:build": "npx tailwindcss -i ./public/css/tailwind.css -o ./public/css/main.css"
   },
   "author": "",
   "license": "ISC",
